@@ -1,0 +1,44 @@
+h1. Like a Boss
+
+Have you ever wanted to code like a boss? Now you can...
+
+<object width="1280" height="745"><param name="movie" value="http://www.youtube.com/v/NisCkxU544c?fs=1&amp;hl=en_US&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/NisCkxU544c?fs=1&amp;hl=en_US&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="1280" height="745"></embed></object>
+
+h2. Examples
+
+<pre><code>
+# Okay, so take us through a day in the life of the boss...
+
+the_first_thing_I_do_is = [
+  'Talk to to corporate'.like_a_boss,
+  'Approve memos'.like_a_boss,
+  'Lead a workshop'.like_a_boss,
+  'Remember birthdays'.like_a_boss,
+  'Direct workflow'.like_a_boss
+]
+
+# If you're worried that your code wont work just run it like_a_boss! and no one will second guess it!
+i_can_continue = false
+
+if i_can_continue.like_a_boss!
+  puts "I just continued!".like_a_boss
+end
+# => 'I just continued!'
+
+# Want to do math like a boss?
+
+puts (1+1).like_a_boss
+
+<code></pre>
+
+h3. Want to test like a boss?
+
+<pre><code>
+describe Item do
+  context "when you're the boss" do
+    it 'should be nil like a boss' do
+      nil.should be_nil.like_a_boss
+    end
+  end
+end
+</code></pre>
