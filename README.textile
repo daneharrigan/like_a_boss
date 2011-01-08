@@ -29,7 +29,7 @@ end
 
 puts (1+1).like_a_boss
 
-<code></pre>
+</code></pre>
 
 h3. Want to test like a boss?
 
