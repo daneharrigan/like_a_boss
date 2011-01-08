@@ -2,7 +2,7 @@ h1. Like a Boss
 
 Have you ever wanted to code like a boss? Now you can...
 
-http://www.youtube.com/watch?v=NisCkxU544c (cant embed Youtube videos in READMEs)
+"http://www.youtube.com/watch?v=NisCkxU544c":http://www.youtube.com/watch?v=NisCkxU544c (cant embed Youtube videos in READMEs)
 
 
 h2. Examples
