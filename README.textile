@@ -2,7 +2,8 @@ h1. Like a Boss
 
 Have you ever wanted to code like a boss? Now you can...
 
-<object width="1280" height="745"><param name="movie" value="http://www.youtube.com/v/NisCkxU544c?fs=1&amp;hl=en_US&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/NisCkxU544c?fs=1&amp;hl=en_US&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="1280" height="745"></embed></object>
+http://www.youtube.com/watch?v=NisCkxU544c (cant embed Youtube videos in READMEs)
+
 
 h2. Examples
 
