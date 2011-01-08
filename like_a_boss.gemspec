@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.description = %q{The only gem you need if you want to write Ruby like a boss.}
 
   s.rubyforge_project = "like_a_boss"
-  s.development_dependencies 'rspec', '~> 2.3.0'
+  s.add_development_dependency 'rspec', '~> 2.3.0'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
